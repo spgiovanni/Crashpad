@@ -1,0 +1,93 @@
+.header{
+	background:url(ozxoa3rd3w-tomo-nogi.jpg)no-repeat  center center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	text-align: center;
+	/*display: inline-block;*/
+	
+}
+
+h1{
+	text-align: center;
+	font-family: 'Rubik', sans-serif;
+	color:white;
+	padding-top:38px;
+	font-size: 58px;
+	
+
+}
+.header .container{
+	height:100px;
+	color:white;
+
+}
+img{
+	width:50%;
+	display:block;
+	margin:auto;
+
+
+}
+p{
+	text-align: center;
+	font-size: 75px;
+	padding:40px;
+}
+ul{
+	text-align: center;
+	list-style-type:none;
+	padding:100px;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+	font-size: 28px;
+}
+.down{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+i{
+	margin-right:50px;
+	margin-bottom:7px;
+}
+video{
+	/*margin-bottom:-100px;*/
+}
+.house,.bed{
+	height:400px;
+	width:450px;
+}
+.footer{
+	background:url(0juc5jihpks-kaushik-panchal.jpg)no-repeat center center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	margin-bottom: auto;
+	height:100px;
+	/*background-color:#cccccc;*/
+}
+h2{
+	padding:25px;
+	color:white;
+}
+.mend{
+	color:white;
+}
+.email{
+	font-size: 38px;
+	padding:25px;
+	color:white;
+}
+.main{
+	background:url(2juv7mlqazi-kazuend.jpg)no-repeat center center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	
+}
+
+
+	
